@@ -1,0 +1,16 @@
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\console.core.docker.app.exe
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\console.core.docker.app.deps.json
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\console.core.docker.app.runtimeconfig.json
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\console.core.docker.app.runtimeconfig.dev.json
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\console.core.docker.app.dll
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\ref\console.core.docker.app.dll
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\bin\Release\net5.0\console.core.docker.app.pdb
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.csproj.AssemblyReference.cache
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.AssemblyInfoInputs.cache
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.AssemblyInfo.cs
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.csproj.CoreCompileInputs.cache
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.dll
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\ref\console.core.docker.app.dll
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.pdb
+C:\Users\Mustermann\source\repos\my-docker-projects\Docker\console.core.docker.app\console.core.docker.app\obj\Release\net5.0\console.core.docker.app.genruntimeconfig.cache

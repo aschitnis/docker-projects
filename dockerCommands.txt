@@ -1,0 +1,42 @@
+Alle Abhängigkeiten einer Anwendung lassen sich in einem Docker Image abbilden.
+Aus einem Image lässt sich eine Instanz erzeugen, die als Container bezeichnet wird.
+
+>> docker build -t [name-of-image]:[tag/version number] . //eine neue Image wird erzeugt
+docker rmi [Image tag] 									 // image entfernen
+>> docker images  										// alle Images anzeigen
+>> docker image history [first 3 characters/letters of the Tag]
+>> docker run --rm <image_name>    						// run the image
+
+// Container wird vom bestehenden Image erzeugt & ausgeführt
+>> docker run --name [container-name] [image-name]:[tag{optional}]
+  
+>> docker run [container-name]      // jede Ausführung erzeugt einen neuen Container. 
+>> docker run --rm [container-name]      // Container wird ausgeführt & beim Beenden entfernt.
+>> docker rm [container tag]       // container entfernen
+
+//	Das Erstellen des Images und Ausführen eines Containers erfolgt 
+//	 mit den Befehlen docker build und docker run.
+>> docker build -t [name des images] .
+>> docker run –rm [name des images]  // 
+
+docker start [container tag] -a // Applikationsausgabe an die Konsole
+docker ps -a // alle Containers in der Konsole anzeigen.  
+@ How to land interactive inside a running Container
+docker exec -it <container-name> bash
+
+@ Create a volume in Docker & display the insides of that volume.
+docker volume create <name-of-volume>
+docker volume ls 
+ 
+---- WEB SERVER CONTAINER ----
+@ if nginx image is there in repository, 
+@  then the image will be fetched/pulled into our repository.
+docker run --name mein-container-nginx -d -p 8080:80 nginx 
+>> docker run --name [name-of-container] -p [machine-port]:[image-port] [name-of-image]:[tag]
+
+@ How to land interactive inside a runningnginx web-server Container 
+docker exec -it mein-container-nginx bash
+
+docker stop [first 3 characters/letters of the ContainerID]  // STOP Container
+docker start [first 3 characters/letters of the ContainerID] // START Container
+docker rm [first 3 characters/letters of the ContainerID]    // DELETE Container
